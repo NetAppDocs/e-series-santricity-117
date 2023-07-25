@@ -1,11 +1,12 @@
 ---
-layout: landing-page
-sidebar: sidebar
+layout: astra
 permalink: index.html
-# lead: Use only if indexpage.lead is not present in _index.yml
-summary: "summary, used for search results"
+sidebar: sidebar
+lead: SANtricity software lets you achieve maximum performance and utilization of your E-Series hybrid-flash and EF-Series all-flash arrays for heavy-workload applications, including data analytics, video surveillance, and backup and recovery.
+summary: SANtricity System Manager and Unified Manager
 ---
-= replace with repository name
+
+= SANtricity software documentation 11.7
 :hardbreaks:
 :nofooter:
 :icons: font
