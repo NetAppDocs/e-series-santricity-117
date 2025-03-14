@@ -9,7 +9,7 @@ summary: 'System Manager supports these browser versions.'
 :imagesdir: ../media/
 
 [.lead]
-System Manager supports these browser versions.
+SANtricity System Manager supports these browser versions.
 
 [cols="1a,1a" options="header"]
 |===
