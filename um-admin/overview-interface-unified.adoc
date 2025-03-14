@@ -9,7 +9,7 @@ summary: "Unified Manager is a web-based interface that allows you to manage mul
 :imagesdir: ../media/
 
 [.lead]
-Unified Manager is a web-based interface that allows you to manage multiple storage arrays in a single view.
+SANtricity Unified Manager is a web-based interface that allows you to manage multiple storage arrays in a single view.
 
 == Main page
 
