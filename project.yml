@@ -59,7 +59,7 @@ sidebar:
             url: "/san-getstarted/install-um.html"
           - title: Access Unified Manager
             url: "/san-getstarted/login-um.html"
-  - title: System Manager
+  - title: SANtricity System Manager
     url: "/system-manager/index.html"
     entries:
       - title: Main interface
@@ -1260,7 +1260,7 @@ sidebar:
             - title: How do I choose which type of upgrade to perform?
               url: "/sm-support/how-do-i-choose-which-type-of-upgrade-to-perform.html"
 
-  - title: Unified Manager
+  - title: SANtricity Unified Manager
     url: "/unified-manager/index.html"
     entries:
     - title: Main interface
