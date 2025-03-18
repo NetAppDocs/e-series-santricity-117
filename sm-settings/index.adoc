@@ -7,3 +7,7 @@ summary: ''
 = SANtricity System Manager 11.7
 :icons: font
 :imagesdir: ../media/
+
+[.lead]
+
+You can configure SANtricity System Manager for some general array settings and add-on features.
