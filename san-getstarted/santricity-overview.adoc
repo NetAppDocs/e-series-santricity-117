@@ -13,8 +13,8 @@ E-Series systems include SANtricity software for storage provisioning and other 
 
 This site describes how to use the following SANtricity management interfaces:
 
-* System Manager -- a web-based interface used for managing one controller in a storage array.
-* Unified Manager -- a web-based interface used for viewing and managing all storage arrays in your network.
+* SANtricity System Manager -- a web-based interface used for managing one controller in a storage array.
+* SANtricity Unified Manager -- a web-based interface used for viewing and managing all storage arrays in your network.
 
 NOTE: EF600 and EF300 storage arrays do not support mirroring, thin volumes, or SSD Cache features.
 
