@@ -2,7 +2,7 @@ indexpage:
   tiles:
     - title: Set up
       links:
-      - title: Unified Manager interface overview
+      - title: SANtricity Unified Manager interface overview
         url: ../um-admin/overview-interface-unified.html
       - title: Set admin password
         url: ../um-admin/administrator-password-protection-unified.html
