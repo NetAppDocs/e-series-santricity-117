@@ -12,7 +12,7 @@ summary: "For extra security in an iSCSI network, you can set authentication bet
 [.lead]
 For extra security in an iSCSI network, you can set authentication between controllers (targets) and hosts (initiators).
 
-System Manager uses the Challenge Handshake Authentication Protocol (CHAP) method, which validates the identity of targets and initiators during the initial link. Authentication is based on a shared security key called a _CHAP secret_.
+SANtricity System Manager uses the Challenge Handshake Authentication Protocol (CHAP) method, which validates the identity of targets and initiators during the initial link. Authentication is based on a shared security key called a _CHAP secret_.
 
 .Before you begin
 
